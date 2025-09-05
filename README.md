@@ -1,5 +1,5 @@
 # Exploring Dynamic Load Balancing Algorithms for Block-Structured Mesh-and-Particle Simulations in AMReX
-
+[Link to the paper](https://dl.acm.org/doi/full/10.1145/3708035.3736022)
 
 
 ## **Introduction**
